@@ -2,13 +2,11 @@
 
 I'm Aniket Mishrikotkar
 
-I am a software developer with experise in frontend software development and machine learning. I write at **amishrikotkar.github.io**.
+I am a machine learning engineer with interests in nlp and cv. Previously I have built ml solutions using aws. Before that I used to work as a frontend developer. I write at **amishrikotkar.github.io**.
 
 More about me:
 
-- 🔭 I’m currently working on a computer vision project
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on NLP or CV projects
-- 💬 Ask me about Machine or Deep Learning or Software engineering
+- 🔭 I'm currently working on a computer vision project for detecting diabetic retinopathy
+- 🌱 I'm currently learning ml5.js and tensorflow.js
+- 💬 I'm interested in mlops, aws and deep learning
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/amishrikotkar)
-- ⚡ I know about Python, NLP, CV, Javascript, Angular, NodeJS, React, SQL, Docker, AWS, Tableau, CI/CD

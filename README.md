@@ -1,6 +1,6 @@
 ### Hi, I'm Aniket 👋
 
-I'm a software engineer.
+I'm a Machine Learning Engineer at Accenture
 
 - 🎓 I am currently working on search for healthcare enterprises at Accenture
 - 🌱 I am reading Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow

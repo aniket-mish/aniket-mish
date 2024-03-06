@@ -5,4 +5,4 @@ I work as a machine learning engineer. I have interests in search and recsys, ML
 I write [here](https://aniketmi.com/).
 
 - 📫 Email: aniketmishrikotkar@gmail.com
-- 📫 Blog: https://aniketmi.com/blog
+- 📫 Linkedin: https://linkedin.com/in/aniketmish

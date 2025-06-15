@@ -1,6 +1,8 @@
-Hi, I'm Aniket! 👋
+hi, i'm aniket! 👋
 
-I work as a machine learning engineer. I have interests in search and recsys, MLOps, and distributed systems. Nowadays, I'm exploring LLMs and LLMOps at work.
+i work as a senior machine learning engineer in the ml infra team at wbd. i have interests in search and recsys, mlops, and distributed systems. currently besides infra, i'm exploring the hypermodern world of llms and llmops.
 
-- Email: aniketmishrikotkar@gmail.com
-- Linkedin: https://linkedin.com/in/aniketmish
+- email @ aniketmishrikotkar@gmail.com
+- my linkedin: https://linkedin.com/in/aniketmish
+
+i'm active on linkedin. feel free to ping me, would love to chat.
